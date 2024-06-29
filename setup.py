@@ -18,7 +18,7 @@ setuptools.setup(
         "License :: OSI Approved :: GNU General Public License v3 (GPLv3)",
         "Operating System :: OS Independent",
     ],
-    install_requires=["pandas", "numpy", "scipy", "matplotlib", "sklearn"],
+    install_requires=["pandas", "numpy", "scipy", "matplotlib", "scikit-learn"],
     include_package_data=True,
     python_requires='>=3.6'
 )
